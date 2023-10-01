@@ -1,7 +1,5 @@
 # Login Page
 
-![Preview](https://lloginpage.netlify.app/preview.png)
-
 [Live Demo](https://lloginpage.netlify.app/) | [GitHub Repository](https://github.com/StarKnightt/Login-Page)
 
 Welcome to the Login Page project! This is a beautifully designed and responsive login page inspired by Instagram's iconic color scheme. It offers a sleek and user-friendly login experience for web applications.
