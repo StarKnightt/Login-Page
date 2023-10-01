@@ -15,8 +15,6 @@ Welcome to the Login Page project! This is a beautifully designed and responsive
 
 ## Preview
 
-![Login Page](https://lloginpage.netlify.app/preview.png)
-
 You can experience the live demo [here](https://lloginpage.netlify.app/).
 
 ## Getting Started
