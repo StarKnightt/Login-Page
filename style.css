@@ -65,8 +65,8 @@
   }
 
   ::placeholder {
-    font-family: 'Josefin Sans', sans-serif;
-}
+      font-family: 'Josefin Sans', sans-serif;
+  }
 
 
   label {
@@ -91,7 +91,7 @@
   }
 
   #btn:hover {
-      
+
       box-shadow: 8px 2px 15px rgba(0, 0, 0, 0.3);
       /* Adjust shadow properties as needed */
   }
