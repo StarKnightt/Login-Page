@@ -47,5 +47,3 @@ Contributions are welcome! If you have any ideas or improvements, please submit 
 ---
 
 Enjoy using and customizing this Instagram-inspired login page! If you have any questions or feedback, please feel free to [contact me](prasenjitt4e@gmail.com).
-
-
